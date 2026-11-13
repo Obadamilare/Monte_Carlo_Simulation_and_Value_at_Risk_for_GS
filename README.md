@@ -12,7 +12,7 @@ Nobody can know what a stock price will be next month, but investors and banks s
 
 
 
-![Simulated GS price paths](images/simulated_paths.png)
+![Simulated GS price paths](simulated_paths.png)
 
 
 
